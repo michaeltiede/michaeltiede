@@ -1,6 +1,6 @@
 # Hi, I'm Michael Tiede 👋
 
-I'm a data scientist based in Los Angeles focused on building end-to-end ML pipelines that turn messy real-world data into actionable insight. I care about using data to advance progressive causes and inform better policy.
+I'm a data scientist based in Los Angeles focused on building end-to-end ML pipelines that turn messy real-world data into actionable insight. I care about using data to advance progressive causes and inform better policy. Most of the work you'll see here are personal projects, or work for American Inequality.
 
 ## What I Work On
 
@@ -16,7 +16,7 @@ I'm a data scientist based in Los Angeles focused on building end-to-end ML pipe
 
 ## Writing & Research
 
-📝 [Substack](https://substack.com/@michaeltiede/posts) — data analysis and commentary on social inequality, published biweekly to 22k+ subscribers and 40k+ readers
+📝 [Substack](https://substack.com/@michaeltiede/posts) — Data analysis and commentary on social inequality, published biweekly to 22k+ subscribers and 40k+ readers
 
 ## Connect
 
