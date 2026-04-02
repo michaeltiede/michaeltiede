@@ -1,6 +1,6 @@
 # Hi, I'm Michael Tiede
 [![Substack Badge](https://img.shields.io/badge/Substack-FF6719?style=flat&logo=substack&logoColor=white)](https://substack.com/@michaeltiede)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaeltiede/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaeltiede/)
 [![Bluesky Badge](https://img.shields.io/badge/Bluesky-0066FF?style=flat&logoColor=white)](https://bsky.app/profile/michaeltiede.bsky.social)
 
 I'm a **data scientist** based in Los Angeles focused on building AI/Ml tools that turn messy real-world data into actionable insight. I care about using data to advance progressive causes and inform better policy. Most of the work you'll see here are personal projects, or work for American Inequality.
