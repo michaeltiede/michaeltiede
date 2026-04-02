@@ -2,6 +2,7 @@
 [![Substack Badge](https://img.shields.io/badge/Substack-FF6719?style=flat&logo=substack&logoColor=white)](https://substack.com/@michaeltiede)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaeltiede/)
 [![Bluesky Badge](https://img.shields.io/badge/Bluesky-0066FF?style=flat&logoColor=white)](https://bsky.app/profile/michaeltiede.bsky.social)
+[![Email Badge](https://img.shields.io/badge/Email%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mike.tiede97@gmail.com)
 
 I'm a **data scientist** based in Los Angeles focused on building AI/Ml tools that turn messy real-world data into actionable insight. I care about using data to advance progressive causes and inform better policy. Most of the work you'll see here are personal projects, or work for American Inequality.
 
@@ -19,10 +20,10 @@ I'm a **data scientist** based in Los Angeles focused on building AI/Ml tools th
 
 ## Writing & Research
 
-📝 [Substack](https://substack.com/@michaeltiede/posts) — Data analysis and commentary on social inequality, published biweekly to 22k+ subscribers and 40k+ readers
+📝 [![Substack Badge](https://img.shields.io/badge/Substack-FF6719?style=flat&logo=substack&logoColor=white)](https://substack.com/@michaeltiede) — Data analysis and commentary on social inequality, published biweekly to 22k+ subscribers and 40k+ readers
 
 ## Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/michaeltiede/)
-- 📬 mike.tiede97@gmail.com
+- 💼 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaeltiede/)
+- 📬 [![Email Badge](https://img.shields.io/badge/Email%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mike.tiede97@gmail.com)
 
