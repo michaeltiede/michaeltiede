@@ -4,15 +4,15 @@ I'm a data scientist based in Los Angeles focused on building end-to-end ML pipe
 
 ## What I Work On
 
-**@ United Healthcare** — Predictive modeling for social risk (food, housing, transportation insecurity) across millions of Medicare members. NLP pipelines using BERT Transformers to classify survey data. Causal inference and A/B testing to evaluate digital health interventions.
+**@ United Healthcare** — Predictive modeling for social risk (food, housing, transportation insecurity) across millions of UHC members. I build AI/ML models, Mapping in ArcGIS, conduct A/B Testing, analysis, and design data visualizations to evaluate risk and program effectiveness. My work helps inform efforts to reduce inequities in care and connect individuals to community-based organizations for support.
 
-**@ American Inequality** — Quantitative research on economic inequality, healthcare access, and demographic shifts. Featured in the New York Times, NPR, TIME, and BBC. I maintain a streamlit dashboard using hierarchical clustering on Census data to help policymakers identify demographically similar counties and design localized interventions. [AIP Project](https://americaninequalityproject.streamlit.app/)
+**@ American Inequality** — Quantitative research studying gaps in opportunity across the U.S. in education, housing, social services, health, voting access, demographic shifts, and more. Featured in the New York Times, NPR, TIME, and BBC. I maintain a streamlit dashboard using hierarchical clustering on Census data to help policymakers identify demographically similar counties and design localized interventions. [AIP Project](https://americaninequalityproject.streamlit.app/)
 
 ## Technical Stack
 
 - **Languages:** Python, SQL, R
 - **ML & Stats:** XGBoost, scikit-learn, BERT/Transformers, LDA, causal inference (DiD, A/B testing), time series
-- **Tools:** Databricks, AzureML, AWS, Snowflake, Tableau, Streamlit, QGIS
+- **Tools:** Databricks, AzureML, AWS, Snowflake, Tableau, Streamlit, ArcGIS/QGIS
 
 ## Writing & Research
 
