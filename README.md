@@ -10,7 +10,7 @@ I'm a **data scientist** based in Los Angeles focused on building AI/Ml tools th
 
 **@ United Healthcare** — Predictive modeling for social risk (food, housing, transportation insecurity) across millions of UHC members. I build AI/ML models, Mapping in ArcGIS, conduct A/B Testing, analysis, and design data visualizations to evaluate risk and program effectiveness. My work helps inform efforts to reduce inequities in care and connect individuals to community-based organizations for support.
 
-**@ American Inequality** — Quantitative research studying gaps in opportunity across the U.S. in education, housing, social services, health, voting access, demographic shifts, and more. Featured in the New York Times, NPR, TIME, and BBC. I maintain a streamlit dashboard using hierarchical clustering on Census data to help policymakers identify demographically similar counties and design localized interventions. [AIP Project](https://americaninequalityproject.streamlit.app/)
+**@ American Inequality** — Quantitative research studying gaps in opportunity across the U.S. in education, housing, social services, health, voting access, demographic shifts, and more. Featured in the New York Times, NPR, TIME, and BBC. I maintain a streamlit dashboard using hierarchical clustering on Census data to help policymakers identify demographically similar counties and design localized interventions. [The Opportunity Map](https://americaninequalityproject.streamlit.app/)
 
 ## Technical Stack
 
