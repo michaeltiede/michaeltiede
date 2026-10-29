@@ -12,7 +12,7 @@ Previously I worked in healthcare in the SDOH space, performing **predictive mod
 
 **@ American Inequality** — Quantitative research studying gaps in opportunity across the U.S. in education, housing, social services, health, voting access, demographic shifts, and more. I maintain a dashboard using hierarchical clustering on Census data to help policymakers identify demographically similar counties and design localized interventions. This dashboard supports the research for the book titled **The Opportunity Map** by Jeremy Ney and is also found on the book website.
 
-[The Opportunity Map Identifier](https://the-opportunity-map.up.railway.app/). 
+[The Opportunity Map Identifier](https://the-opportunity-map.up.railway.app/).  
 [Book](https://www.theopportunitymap.com/opportunity-mapping)
 
 ## Technical Stack
